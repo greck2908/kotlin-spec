@@ -1,0 +1,4 @@
+File: SeeEmpty.kt
+  packageHeader
+  importList
+  EOF("<EOF>")
